@@ -1,2 +1,2 @@
-# YT_Tutorial_Pkg_Email_Validator
-Code for the Youtube tutorial (https://youtu.be/aDbAOm7T9XM) on how to use the Flutter library email_validator
+# Youtube Tutorial Code For Flutter Package *email_validator*
+Code for the Youtube tutorial (https://youtu.be/NnuN4oYwnC0) on how to use the Flutter library email_validator
